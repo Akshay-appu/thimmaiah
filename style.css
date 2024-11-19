@@ -23,7 +23,7 @@ html {
 }
 .navbar.sticky {
   padding: 2px 0;
-  background-color: crimson;
+  background-color: yellow;
 }
 .max-width {
   max-width: 1300px;
@@ -38,13 +38,13 @@ html {
 .navbar .logo a {
   font-size: 30px;
   font-weight: 500;
-  color: #fff;
+  color: #FFFFFF;
   font-family: "Pacifico";
   transition: all 0.3s ease;
 }
 
 .navbar .logo a span {
-  color: crimson;
+  color: yellow;
 }
 .navbar.sticky .logo a span {
   color: white;
@@ -62,7 +62,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #000;
+  color: #fff;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -90,7 +90,7 @@ html {
   bottom: 10px;
   text-align: center;
   line-height: 50px;
-  color: #ffff4d;
+  color: #fff;
   z-index: 999;
   font-size: 30px;
   border-radius: 6px;
@@ -147,7 +147,7 @@ html {
 .home .home-content a {
   display: inline-block;
   background: crimson;
-  color: #ffff4d;
+  color: #fff;
   font-size: 25px;
   padding: 8px 20px;
   margin-top: 20px;
