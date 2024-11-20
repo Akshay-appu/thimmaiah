@@ -23,7 +23,7 @@ html {
 }
 .navbar.sticky {
   padding: 2px 0;
-  background-color: yellow;
+  background-color: gold;
 }
 .max-width {
   max-width: 1300px;
@@ -39,7 +39,7 @@ html {
   font-size: 30px;
   font-weight: 500;
   color: #000000;
-  font-family: "Apple Chancery";
+  font-family: "cursive";
   transition: all 0.3s ease;
 }
 
@@ -190,7 +190,7 @@ section .title {
   font-weight: 500;
   margin-bottom: 60px;
   padding-bottom: 20px;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Ubuntu", Poppins;
 }
 section .title::before {
   content: "";
